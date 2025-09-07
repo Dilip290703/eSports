@@ -1,0 +1,14 @@
+*.mp4
+*.mp3
+*.wav
+.DS_Store
+Thumbs.db
+.vscode/
+*.idea/
+*.log
+*.bak
+*.tmp
+*~
+*.swp
+*.swo
+vendor/
