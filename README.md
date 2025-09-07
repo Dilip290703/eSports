@@ -147,4 +147,9 @@ BGMI player/team registration
 -   Dilip Choudhary
 -   Soham Sutar
 
+------------------------------------------------------------------------
+
+## 📜 License
+
+This project is for educational purposes only. Not intended for clinical use.
 
